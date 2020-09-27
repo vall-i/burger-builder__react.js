@@ -1,3 +1,13 @@
+## Burger Builder Application
+
+A single-page application (SPA).
+
+Created with **React.js, Redux, CSS3**.
+Used **REST API**, **Axios** for HTTP requests.
+Implemented **Routing** in SPA.
+
+[View demo](https://react-my-burger-31513.web.app/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
